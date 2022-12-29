@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on BERT based QA system<br>👯 I’m looking to collaborate on anything related to NLP<br>🤝 I’m looking for help with QA system on large data<br>🌱 I’m currently learning natural language processing(NLP)<br>
+🔭 I’m currently working on BERT based Question Answer system<br>👯 I’m looking to collaborate on anything related to NLP<br>🤝 I’m looking for help with QA system on large data<br>🌱 I’m currently learning natural language processing(NLP)<br>
 
 
 ## 🌐 Socials:
