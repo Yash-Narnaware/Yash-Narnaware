@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on reinforcement learning<br>👯 I’m looking to collaborate on anything related to Reinforcement Learning<br>🤝 I’m looking for help with snake game AI stuck in a loop<br>🌱 I’m currently learning reinforcement learning<br>
+🔭 I’m currently working on Natural Language Processing<br>👯 I’m looking to collaborate on anything related to NLP or Reinforcement Learning<br>🤝 I’m looking for help with enhancing cost effectiveness of LLMs <br>🌱 I’m currently learning NLP and generative AI<br>
 
 
 ## 🌐 Socials:
