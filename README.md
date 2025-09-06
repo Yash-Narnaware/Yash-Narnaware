@@ -49,16 +49,21 @@ Developed an **LSTM-based IDS** on system call sequences to classify normal vs. 
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats  
 
-<p align="center">
+<div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=Yash-Narnaware&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Narnaware&theme=dark&hide_border=false" alt="GitHub Streak" height="180"/>
-</p>
 
-<p align="center">
+  <br/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Narnaware&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="180"/>
-</p>
+
+</div>
+
+
+
 
 
 ---
